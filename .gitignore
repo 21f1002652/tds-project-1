@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Env
+.env
+
+.venv
+.test_github.py
+
+venv/.env
+.env
+.env.example
